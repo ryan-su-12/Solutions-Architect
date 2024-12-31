@@ -12,6 +12,7 @@ Typing back to permissions, we can have policies within groups, but we can have 
 
 ![image](https://github.com/user-attachments/assets/ad9773b1-a20e-47b8-b737-45e47657e9bf)
 ![Pasted image 20241221091045](https://github.com/user-attachments/assets/20b860b0-06e9-4651-af3c-f25bac5bb307)
+
 A policy structure consists of 
 - Version: policy language version
 - Id: an identifier for the policy
