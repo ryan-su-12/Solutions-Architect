@@ -19,6 +19,3 @@ Access keys are generated through the AWS console and users manage their own acc
 - Language specific APIs
 - enables you to access and mange AWS service programmatically 
 - Embedded within the application 
-
-AKIAYQYUBFQHEJTRFJG6
-s5iHZ5R/evadCEHAQJ3khDytw6SLHAb/L1KTbjLj
